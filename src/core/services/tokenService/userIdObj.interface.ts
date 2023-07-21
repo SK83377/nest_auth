@@ -1,0 +1,3 @@
+interface UserIdObjInterface {
+    userId: string;
+}
