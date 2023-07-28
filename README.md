@@ -1,6 +1,7 @@
 Application for authentication users written on Nest JS framework and used non-relational database MongoDB, Passport, JWT, RabbitMQ and 2f authentication by sending code via telegram. Consists of main application (this repository) and 2 other nestjs applications-microservices:
 - telegram bot for receiving codes from users https://github.com/SK83377/auth_tg_bot
-- application, used for sending codes to users https://github.com/SK83377/sendcodems/tree/main
+- application, used for sending codes to users https://github.com/SK83377/sendcodems/tree/main.
+  
 .env file variables need to be filled with relevent data.
 
 
